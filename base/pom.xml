@@ -196,11 +196,9 @@
 	
 	<!-- pinyin -->
 	<dependency>
-  		<groupId>net.sourceforge</groupId>
-  		<artifactId>pinyin4j</artifactId>
-  		<version>2.5.0</version>
-  		<type>jar</type>
-		<scope>compile</scope>
+	  <groupId>com.belerweb</groupId>
+	  <artifactId>pinyin4j</artifactId>
+	  <version>2.5.0</version>
 	</dependency>
 	
 	<!-- file -->
@@ -212,9 +210,9 @@
 		<scope>compile</scope>
 	</dependency>
 	<dependency>
-  		<groupId>com.alibaba</groupId>
-  		<artifactId>simpleimage</artifactId>
-  		<version>0.1</version>
+	  <groupId>com.alibaba</groupId>
+	  <artifactId>simpleimage</artifactId>
+	  <version>1.2.3</version>
 	</dependency>
 	
 	<!-- mail -->
